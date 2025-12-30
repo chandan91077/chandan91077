@@ -10,9 +10,9 @@ I’m continuously learning, experimenting, and improving my skills to build imp
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](#)
-[![CodePen](https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/chandanyadav_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandanyadav426)
+
 
 ---
 
